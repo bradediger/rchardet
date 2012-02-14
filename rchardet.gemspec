@@ -2,7 +2,7 @@
 require File.expand_path('../lib/rchardet', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name              = "edouard-rchardet"
+  s.name              = "rchardet"
   s.version           = CharDet.version
   s.author            = "Jeff Hodges"
   s.email             = "jeff at somethingsimilar dot com"
